@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Pablo's digital garden
+draft: false
+
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Contenido
+- [[Contenido/zettelkasten|Zettelkasten]]
+- [[Contenido/proyectos|Proyectos]]
+- [[Contenido/articulos|Artículos y pensamientos]]
+
