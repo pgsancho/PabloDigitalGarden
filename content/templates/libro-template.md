@@ -7,18 +7,14 @@ draft: false
 created: {{date}}
 ---
 
+![[images/book-cover.jpeg|150]]
+
 # {{title}}
 
 **Autor:** {{author}}  
 
 
-## Notas y reflexiones
+## Conceptos generales y notas
 
-{{notes}}
 
 ## Citas
-
-<!-- Aquí van los enlaces a las citas individuales -->
-
-## Enlaces relacionados
-

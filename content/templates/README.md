@@ -21,7 +21,7 @@ Plantilla para crear fichas de libros. Incluye:
 - Enlaces a citas destacadas
 - Sistema de valoración
 
-### 2. `quote-template.md` 
+### 2. `nota-fuente-template.md` 
 Plantilla para citas individuales. Incluye:
 - Referencia al libro origen
 - La cita textual

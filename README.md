@@ -1,18 +1,25 @@
-# Quartz v4
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+# Pablo's Digital Garden 🌱
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+>This digital garden is powered by [Quartz](https://github.com/jackyzha0/quartz).
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+---
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Quick Start
 
-## Sponsors
+Read the full Quartz documentation: https://quartz.jzhao.xyz/
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+### Useful Commands
+
+- **Sync repository:**
+	```sh
+	npx quartz sync
+	```
+	(Replaces: `git add . && git commit -m "message" && git push`)
+
+- **Build and serve the digital garden locally:**
+	```sh
+	npx quartz build --serve
+	```
+	(Opens at: http://localhost:8080)
+

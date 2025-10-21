@@ -76,6 +76,17 @@ int main() {
 }
 ```
 
+### Punteros únicos
+C++ introduce los llamados `unique pointers`: punteros inteligentes que manejan memoria automáticamente. Es memoria dinámica, el equivalente en C a usar `malloc` y `free`, pero en C++ la gestión de la memoria se realiza de forma automática: cuando el `unique_ptr` sale de ámbito, libera la memoria sin que tengas que llamar manualmente a `delete`.
+
+Un puntero único tiene utilidad, por ejemplo, cuando queremos que el objeto viva más tiempo que el ámbito de la función. Solo puede haber un único puntero propietario de un objeto a la vez.
+
+Ejemplo: creación de un puntero único del tipo `juce::RangedAudioParameter`:
+```
+std::vector<std::unique_ptr<juce::RangedAudioParameter>> params;
+```
+
+
 ## Inicialización uniforme
 C++11 introdujo la llamada inicialización uniforme (uniform initialization), también conocida como brace initialization:
 ```
