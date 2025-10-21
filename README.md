@@ -23,3 +23,9 @@ Read the full Quartz documentation: https://quartz.jzhao.xyz/
 	```
 	(Opens at: http://localhost:8080)
 
+- **Update Quartz to latest version**
+  ```sh
+	git fetch upstream
+  git merge upstream/v4
+	```
+
