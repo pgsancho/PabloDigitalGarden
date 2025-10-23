@@ -4,7 +4,7 @@ author: "Ray Bradbury"
 tags:
   - books
 draft: false
-created: {{date}}
+created: 2025-10-23
 ---
 
 ![[images/farenheit-451.jpeg|150]]

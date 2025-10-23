@@ -8,7 +8,7 @@ tags:
   - literatura
   - felicidad
 draft: false
-created: {{date}}
+created: 2025-10-23
 ---
 
 **Libro:** [[books/farenheit_451|Farenheit 451]]
