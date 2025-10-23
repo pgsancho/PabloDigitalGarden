@@ -15,3 +15,5 @@ created: 2022-07-26
 
 ## Cita
 > Llamé a secundar la protesta no violenta siempre que fuera efectiva
+
+**Autor:** Mahatma Gandhi

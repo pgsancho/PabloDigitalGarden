@@ -7,6 +7,9 @@ draft: false
 created: 2025-10-23
 ---
 
+![[images/como-dinamitar-un-oleoducto.jpeg|150]]
+
+
 # Cómo dinamitar un oleoducto
 
 **Autor:** Andreas Malm

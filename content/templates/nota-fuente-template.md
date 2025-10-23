@@ -10,3 +10,5 @@ created: {{date}}
 
 ## Cita
 > Cita aquí
+
+**Autor:** (si lo hay)

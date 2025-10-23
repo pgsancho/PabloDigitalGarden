@@ -7,6 +7,8 @@ draft: false
 created: 2025-10-23
 ---
 
+![[images/principios-del-comunismo.jpeg|150]]
+
 # Principios del Comunismo - Del Socialismo Utópico al Socialismo Científico
 
 **Autor:** Friedrich Engels
@@ -14,7 +16,10 @@ created: 2025-10-23
 
 ## Conceptos generales y notas
 
-Siempre que en el libro se habla de “propiedad privada”, se refiere a propiedad privada de los medios de producción
+- Dialéctica: conjunto de razonamientos y argumentos en un discurso y cómo ordenarlos
+- Materialismo (filosófico): la materia es el origen del Universo y las ideas vienen dadas a partir de ella. No hay otra realidad que la material, el pensamiento y sus modos de expresión son manifestaciones de la materia ⇒ opuesto al idealismo
+- Materialismo (dialéctico): materialismo que estudia y concibe los fenómenos dialécticamente. Teoría creada por Engels para estudiar el desarrollo de la naturaleza, del pensamiento y de las sociedades humanas
+- Siempre que en el libro se habla de “propiedad privada”, se refiere a propiedad privada de los medios de producción.
 
 ## Citas
 - [[notes/comunismo_doctrina_condiciones|El comunismo es la doctrina de las condiciones de la liberación del proletariado]]

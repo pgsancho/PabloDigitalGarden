@@ -7,6 +7,9 @@ draft: false
 created: 2025-10-23
 ---
 
+![[images/ecce-homo.jpeg|150]]
+
+
 # Ecce homo
 
 **Autor:** Friedrich Nietzsche
@@ -14,6 +17,9 @@ created: 2025-10-23
 
 ## Conceptos generales y notas
 
+- **Transvaloración/transmutación de los valores**: recuperar los valores de la moral natural: autoestima, fuerza, individualidad, etc. Revolución moral que permite superar el nihilismo.
+- **Apolo y Dioniso**: Apolo es belleza, perfección de formas, cordura, razón, escultura, poesía, ordenado, paciencia, individualidad. Dioniso es embriaguez, desenfreno de los sentidos, música, danza. Apolo es un “analgésico, un velo para los dolores del alma”. Dioniso destruye al individuo en un torbellino y lo reunifica en un éxtasis.
+- **Eterno retorno**: principio moral alentador: si tuviera que vivir esta vida una y otra vez, ¿cómo la viviría? La respuesta está en la propia vida: vivirla de forma intensa, dando la vida por nuestra virtud: alejarse del rebaño, creando una nueva paleta de valores (Superhombre)
 
 
 ## Citas

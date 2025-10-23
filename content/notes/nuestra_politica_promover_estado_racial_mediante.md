@@ -15,3 +15,5 @@ created: 2022-07-26
 
 ## Cita
 > Nuestra política de promover un estado no racial mediante la no violencia no ha conseguido nada (…) tendremos que reconsiderar la táctica
+
+**Autor:** Nelson Mandela
