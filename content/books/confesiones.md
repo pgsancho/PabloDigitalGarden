@@ -7,6 +7,8 @@ draft: false
 created: 2025-10-23
 ---
 
+![[images/confesiones.jpeg|150]]
+
 # Confesiones
 
 **Autor:** San Agustín

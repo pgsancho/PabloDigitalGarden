@@ -7,6 +7,8 @@ draft: false
 created: 2025-10-23
 ---
 
+![[images/cartas-del-diablo-a-su-sobrino.jpeg|150]]
+
 # Cartas del diablo a su sobrino
 
 **Autor:** C. S. Lewis

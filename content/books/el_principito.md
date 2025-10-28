@@ -7,6 +7,8 @@ draft: false
 created: 2025-10-23
 ---
 
+![[images/el-principito.jpeg|150]]
+
 # El Principito
 
 **Autor:** Antoine de Saint-Exupéry

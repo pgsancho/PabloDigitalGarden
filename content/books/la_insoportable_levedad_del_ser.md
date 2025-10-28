@@ -7,6 +7,8 @@ draft: false
 created: 2025-10-23
 ---
 
+![[images/la-insoportable-levedad-del-ser.jpeg|150]]
+
 # La insoportable levedad del ser
 
 **Autor:** Milan Kundera

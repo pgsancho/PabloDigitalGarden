@@ -7,6 +7,8 @@ draft: false
 created: 2025-10-23
 ---
 
+![[images/los-hermanos-karamazov.jpeg|150]]
+
 # Los hermanos Karamazov
 
 **Autor:** Fiódor Dostoyevski

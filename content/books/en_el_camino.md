@@ -7,6 +7,8 @@ draft: false
 created: 2025-10-23
 ---
 
+![[images/en-el-camino.jpeg|150]]
+
 # En el camino
 
 **Autor:** Jack Kerouac

@@ -7,6 +7,8 @@ draft: false
 created: 2025-10-23
 ---
 
+![[images/etica-a-nicomaco.jpeg|150]]
+
 # Ética a Nicómaco
 
 **Autor:** Aristóteles
