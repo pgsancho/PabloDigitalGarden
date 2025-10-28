@@ -13,3 +13,5 @@ created: 2024-06-21
 
 ## Cita
 > Desde la cima del Coliseo, Roma también parecía eterna
+
+**Autor:** grafitti en Madrid

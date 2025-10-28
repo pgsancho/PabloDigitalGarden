@@ -13,3 +13,5 @@ created: 2024-05-16
 
 ## Cita
 > Si el desarrollo del capital de un país se convierte en un producto secundario de las actividades de un casino, es probable que el trabajo se haga mal
+
+**Autor:** J.M Keynes

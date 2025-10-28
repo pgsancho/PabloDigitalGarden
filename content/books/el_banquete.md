@@ -7,6 +7,8 @@ draft: false
 created: 2025-10-23
 ---
 
+![[images/el-banquete.jpeg|150]]
+
 # El banquete
 
 **Autor:** Platón

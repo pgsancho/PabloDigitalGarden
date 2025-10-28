@@ -7,13 +7,22 @@ draft: false
 created: 2025-10-23
 ---
 
+![[utopia-no-es-una-isla.jpeg|150]]
+
 # Utopía no es una isla
 
 **Autor:** Layla Martínez
 
 
 ## Conceptos generales y notas
-
+- Utopía significa “no lugar”
+- Anotaciones sobre comunismo/socialismo:
+  - Marx, Engels y Lenin pensaban que una descripción detallada de la sociedad comunista sería contraproducente (sólo hablan de *dictadura del proletariado*). Sin embargo, Lenin sí menciona rasgos generales de esas sociedad: sin clases sociales, violencia ni explotación, …
+  - Marx y Engels creía que era necesario que las fuerzas productivas se desarrollaran hasta cierto punto para que la revolución triunfase, pero Lenin demostró que no.
+  - Mao no creía que la fuerza revolucionaria debiese ser el proletariado: las masas campesinas podían ocupar su lugar. También fue muy crítico con la URRS, pues pensaba que se había convertido en un país socialfascista hacia dentro y socialimperialista hacia fuera. Socialista de palabra, fascista e imperialista de hecho.
+- Conceptos activismo - cambio climático:
+  - Decrecimeinto: presupuesto ecológico-anticapitalista que propone reducir la proeducción y el consumo en el norte global
+  - Ecosocialismo: movimiento socialista moderno que busca tomar los medios de producción y utilizar la tecnología para la causa medioambiental
 
 
 ## Citas

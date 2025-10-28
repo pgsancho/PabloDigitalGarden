@@ -15,3 +15,5 @@ created: 2024-05-23
 
 ## Cita
 > There is no alternative
+
+**Autor:** Margaret Tatcher

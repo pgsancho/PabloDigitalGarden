@@ -13,3 +13,5 @@ created: 2024-05-17
 
 ## Cita
 > Lo importante para el Gobierno es no hacer cosas que los individuos ya están haciendo, y hacerlas un poco mejor o un poco peor, sino hacer esas cosas que en el momento actual nadie hac
+
+**Autor:** J.M. Keynes

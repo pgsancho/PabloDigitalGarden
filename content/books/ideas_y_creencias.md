@@ -7,6 +7,8 @@ draft: false
 created: 2025-10-23
 ---
 
+![[images/ideas-y-creencias.jpeg|150]]
+
 # Ideas y creencias
 
 **Autor:** José Ortega y Gasset

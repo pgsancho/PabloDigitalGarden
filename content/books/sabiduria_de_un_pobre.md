@@ -7,6 +7,8 @@ draft: false
 created: 2025-10-23
 ---
 
+![[sabiduria-de-un-pobre.jpeg|150]]
+
 # Sabiduría de un pobre
 
 **Autor:** Eloi Leclerc
