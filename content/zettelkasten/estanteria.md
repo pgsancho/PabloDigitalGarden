@@ -1,5 +1,5 @@
 ---
-title: Mi estantería
+title: Mi estantería 📚
 draft: false
 ---
 

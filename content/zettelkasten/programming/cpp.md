@@ -1,8 +1,9 @@
 ---
-title: C++
+title: C++ 🌱
 draft: false
 
 ---
+
 
 ## Plantilla de clase
 `std::function` es una plantilla de clase de la librería estándar `functional`. Sirve para guardar y usar funciones “como objetos”. Puedes guardar dentro una función normal, una lambda, o cualquier objeto que se comporte como una función (functor). Su plantilla es:
