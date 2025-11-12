@@ -7,7 +7,7 @@ draft: false
 created: {{date}}
 ---
 
-![[images/book-cover.jpeg|150]]
+![[zettelkasten/images/book-cover.jpeg|150]]
 
 # {{title}}
 
